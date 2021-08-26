@@ -7,7 +7,7 @@ import os
 
 parent_dict = "C:/Users/gokay/Desktop/sil"
 create = "merged_train"
-
+#Testtttt + tryyyy
 path = join(parent_dict,create)
 
 
